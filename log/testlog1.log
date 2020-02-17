@@ -1,0 +1,16 @@
+2020-02-15 19:37:42,306 [main] INFO GeneratesLoggerDemo - BrowserOpened
+2020-02-15 19:37:46,868 [main] INFO GeneratesLoggerDemo - BrowserMaximized
+2020-02-15 19:37:51,873 [main] INFO GeneratesLoggerDemo - implicitly wait applied
+2020-02-15 19:37:52,010 [main] INFO GeneratesLoggerDemo - BrowserMaximized
+2020-02-15 19:37:52,424 [main] INFO GeneratesLoggerDemo - PasswordPassed
+2020-02-15 19:38:04,487 [main] INFO GeneratesLoggerDemo - LginClicked
+2020-02-15 19:38:10,004 [main] INFO GeneratesLoggerDemo - LogoutNavigation
+2020-02-15 19:38:18,819 [main] INFO GeneratesLoggerDemo - ClickonLogout
+2020-02-15 19:58:58,606 [main] INFO GeneratesLoggerDemo - BrowserOpened13
+2020-02-15 19:59:03,124 [main] INFO GeneratesLoggerDemo - BrowserMaximized
+2020-02-15 19:59:08,135 [main] INFO GeneratesLoggerDemo - implicitly wait applied
+2020-02-15 19:59:08,291 [main] INFO GeneratesLoggerDemo - BrowserMaximized
+2020-02-15 19:59:08,682 [main] INFO GeneratesLoggerDemo - PasswordPassed
+2020-02-15 19:59:20,529 [main] INFO GeneratesLoggerDemo - LginClicked
+2020-02-15 19:59:26,038 [main] INFO GeneratesLoggerDemo - LogoutNavigation
+2020-02-15 19:59:33,726 [main] INFO GeneratesLoggerDemo - ClickonLogout
